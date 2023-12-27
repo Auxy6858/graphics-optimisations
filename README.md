@@ -7,4 +7,4 @@ Make sure Rezisable BAR is enabled in your bios settings if possible to get the 
 
 ### Tutorial on how to enable it :
 
-```https://www.youtube.com/watch?v=5DqcgHtkm9I&t=187s```
+https://www.youtube.com/watch?v=5DqcgHtkm9I&t=187s
