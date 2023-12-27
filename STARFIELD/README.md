@@ -1,6 +1,11 @@
 # STAFRIELD OPTIMISED GRAPHICS
 
+## HOW TO USE
+
+Head to ```"%USERPROFILE% \ Documents \My Games\Starfield\"``` and copy and paste the "starfieldPrefs.ini" file there
 ## SYSTEM SPECIFICATIONS
+
+IF YOU USE MOD ORGANISER GO TO  "\AppData\Local\ModOrganizer\Starfield\profiles\Default" and paste the file there
 
 CPU : Intel core i5 12400F
 
