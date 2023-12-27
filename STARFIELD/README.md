@@ -1,5 +1,28 @@
 # STAFRIELD OPTIMISED GRAPHICS
 
+## GENERAL NOTE
+
+Feel free to tinker with these settings however you please
+
+From my experience I've found that Shadow quality and volumetric lighting had the largest impact on my framerate
+
+There's a good video by hardwareunboxed on the performance impact of each setting
+
+https://www.youtube.com/watch?v=40iwgUjBmoA&t=1312s
+
+I also use a mod called "smooth ship reticle" which fixes the janky animation of the ship reticle
+https://www.nexusmods.com/starfield/mods/270
+
+If you use this mod and still want steam achievements use this mod to enable them
+https://www.nexusmods.com/starfield/mods/658
+
+And if you want to launch into the starfield script extender from steam right click starfield and go to Properties > General > Launch options
+and enter ```"location of modorganiser on your pc" "moshortcut://Starfield:Starfield" %command%```
+this will make steam boot up the game with mods allowing you to still use steam overlay
+
+Download ModOrganiser 2 from 
+https://github.com/ModOrganizer2/modorganizer
+
 ## HOW TO USE
 
 Head to ```"%USERPROFILE% \ Documents \My Games\Starfield\"``` and copy and paste the "starfieldPrefs.ini" file there
