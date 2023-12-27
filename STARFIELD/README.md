@@ -1,4 +1,4 @@
-![Starfield bg](https://images.ctfassets.net/rporu91m20dc/6BcyY12VDpuQ8nyuq6inUv/48e42bc1534cacd9f7c16727eb6f5c86/e1715450982764464b4969be8c61dce5bf7156fc.png?fit=fill&h=650&w=1920)
+
 ![Starfield logo](https://images.ctfassets.net/rporu91m20dc/2jhkXG88m0C1Nqvv8ncXGB/dc5d84cc630ba06e209c32099b0f59e2/bed05d7e0bb93cedfc23586bd994cf4aca6a497f.png?fit=fill&w=310)
 
 
@@ -27,6 +27,8 @@ this will make steam boot up the game with mods allowing you to still use steam 
 
 Download ModOrganiser 2 from 
 https://github.com/ModOrganizer2/modorganizer
+
+![Starfield bg](https://images.ctfassets.net/rporu91m20dc/6BcyY12VDpuQ8nyuq6inUv/48e42bc1534cacd9f7c16727eb6f5c86/e1715450982764464b4969be8c61dce5bf7156fc.png?fit=fill&h=650&w=1920)
 
 ## HOW TO USE
 
